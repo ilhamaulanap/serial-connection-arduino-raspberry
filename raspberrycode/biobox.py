@@ -6,7 +6,7 @@ import pymysql.cursors
 dbConn = pymysql.connect(
 host='194.5.156.1',
 user='u592694108_bioboxku',
-password='moxjesdd2FF',
+password='********',
 database='u592694108_biobox'
 )
 
